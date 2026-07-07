@@ -1,0 +1,17 @@
+{
+  "Root": "https://raw.githubusercontent.com/flp-gregorio/ShWeapPKG/main/WeaponKeywords/ShWeapPKG",
+  "Files": [
+    "index.json",
+    "Club.json",
+    "Halberd.json",
+    "Hatchet.json",
+    "LongMace.json",
+    "Maul.json",
+    "QuarterStaff.json",
+    "Shortspear.json",
+    "Shortsword.json",
+    "Spear.json",
+    "Glaive.json",
+    "Trident.json"
+  ]
+}

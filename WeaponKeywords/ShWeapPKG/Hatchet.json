@@ -1,0 +1,23 @@
+{
+  "name": "Hatchet",
+  "keyword": [
+    "ShWeapTypeHatchet"
+  ],
+  "commonNames": [
+    "hatchet",
+    "hand axe",
+    "handaxe",
+    "tomahawk"
+  ],
+  "excludeNames": [
+    "war axe",
+    "war-axe",
+    "waraxe",
+    "battleaxe",
+    "battle axe"
+  ],
+  "outputDescription": "a hatchet",
+  "validEquipType": "OneHand",
+  "include": [],
+  "exclude": []
+}

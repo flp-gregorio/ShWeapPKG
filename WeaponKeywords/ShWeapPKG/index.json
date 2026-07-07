@@ -1,0 +1,28 @@
+{
+  "Name": "SynWeaponKeywords - Sh Weapon Types",
+  "Description": "Custom weapon keyword package matching ShWeapType taxonomy",
+  "excludes": {
+    "phrases": [],
+    "weapons": []
+  },
+  "sources": [
+    "Skyrim.esm",
+    "Update.esm",
+    "ShWeaponKeywords.esp"
+  ],
+  "GenMissingKeywords": false,
+  "Files": [
+    "index.json",
+    "Club.json",
+    "Halberd.json",
+    "Hatchet.json",
+    "LongMace.json",
+    "Maul.json",
+    "QuarterStaff.json",
+    "Shortspear.json",
+    "Shortsword.json",
+    "Spear.json",
+    "Glaive.json",
+    "Trident.json"
+  ]
+}

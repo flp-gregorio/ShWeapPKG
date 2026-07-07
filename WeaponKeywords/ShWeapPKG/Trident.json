@@ -1,0 +1,14 @@
+{
+  "name": "Trident",
+  "keyword": [
+    "ShWeapTypeTrident"
+  ],
+  "commonNames": [
+    "trident"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a trident",
+  "validEquipType": "TwoHand",
+  "include": [],
+  "exclude": []
+}

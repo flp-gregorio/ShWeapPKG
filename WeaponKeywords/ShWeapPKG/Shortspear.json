@@ -1,0 +1,17 @@
+{
+  "name": "Shortspear",
+  "keyword": [
+    "ShWeapTypeShortspear"
+  ],
+  "commonNames": [
+    "shortspear",
+    "short spear",
+    "short-spear",
+    "javelin"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a shortspear",
+  "validEquipType": "OneHand",
+  "include": [],
+  "exclude": []
+}

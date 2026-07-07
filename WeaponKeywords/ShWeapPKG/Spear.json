@@ -1,0 +1,24 @@
+{
+  "name": "Spear",
+  "keyword": [
+    "ShWeapTypeSpear"
+  ],
+  "commonNames": [
+    "spear"
+  ],
+  "excludeNames": [
+    "shortspear",
+    "short spear",
+    "short-spear",
+    "trident",
+    "halberd",
+    "glaive",
+    "javelin",
+    "riekling",
+    "icy spear"
+  ],
+  "outputDescription": "a spear",
+  "validEquipType": "TwoHand",
+  "include": [],
+  "exclude": []
+}

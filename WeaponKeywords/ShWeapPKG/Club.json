@@ -1,0 +1,15 @@
+{
+  "name": "Club",
+  "keyword": [
+    "ShWeapTypeClub"
+  ],
+  "commonNames": [
+    "club",
+    "cudgel"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a club",
+  "validEquipType": "OneHand",
+  "include": [],
+  "exclude": []
+}

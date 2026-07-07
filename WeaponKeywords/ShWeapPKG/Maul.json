@@ -1,0 +1,14 @@
+{
+  "name": "Maul",
+  "keyword": [
+    "ShWeapTypeMaul"
+  ],
+  "commonNames": [
+    "maul"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a maul",
+  "validEquipType": "OneHand",
+  "include": [],
+  "exclude": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "LongMace",
+  "keyword": [
+    "ShWeapTypeLongMace"
+  ],
+  "commonNames": [
+    "long mace",
+    "longmace",
+    "long-mace"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a long mace",
+  "validEquipType": "TwoHand",
+  "include": [],
+  "exclude": []
+}

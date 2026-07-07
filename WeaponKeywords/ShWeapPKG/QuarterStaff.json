@@ -1,0 +1,19 @@
+{
+  "name": "QuarterStaff",
+  "keyword": [
+    "ShWeapTypeQuarterStaff"
+  ],
+  "commonNames": [
+    "quarterstaff",
+    "quarter staff",
+    "quarter-staff"
+  ],
+  "excludeNames": [
+    "staff of",
+    "magic staff"
+  ],
+  "outputDescription": "a quarterstaff",
+  "validEquipType": "TwoHand",
+  "include": [],
+  "exclude": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Halberd",
+  "keyword": [
+    "ShWeapTypeHalberd"
+  ],
+  "commonNames": [
+    "halberd"
+  ],
+  "excludeNames": [],
+  "outputDescription": "a halberd",
+  "validEquipType": "TwoHand",
+  "include": [],
+  "exclude": []
+}
